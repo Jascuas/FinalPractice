@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$USER_HOME$/code/Laravel/vendor/composer" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/dnoegel/php-xdg-base-dir" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/doctrine/inflector" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/doctrine/instantiator" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/doctrine/lexer" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/egulias/email-validator" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/erusev/parsedown" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/fideloper/proxy" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/filp/whoops" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/fzaninotto/faker" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/hamcrest/hamcrest-php" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/jakub-onderka/php-console-color" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/jakub-onderka/php-console-highlighter" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/laravel/framework" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/laravel/tinker" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/league/flysystem" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/mockery/mockery" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/monolog/monolog" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/mtdowling/cron-expression" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/myclabs/deep-copy" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/nesbot/carbon" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/nikic/php-parser" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/paragonie/random_compat" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phar-io/manifest" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phar-io/version" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpspec/prophecy" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpunit/php-code-coverage" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpunit/php-file-iterator" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpunit/php-text-template" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpunit/php-timer" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpunit/php-token-stream" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpunit/phpunit" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/psr/container" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/psr/log" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/psr/simple-cache" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/psy/psysh" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/ramsey/uuid" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/code-unit-reverse-lookup" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/comparator" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/diff" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/environment" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/exporter" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/global-state" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/object-enumerator" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/object-reflector" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/recursion-context" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/resource-operations" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/version" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/console" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/css-selector" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/debug" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/event-dispatcher" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/finder" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/http-foundation" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/http-kernel" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/polyfill-php70" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/process" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/routing" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/thanks" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/translation" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/var-dumper" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/theseer/tokenizer" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/tijsverkoyen/css-to-inline-styles" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/vlucas/phpdotenv" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/webmozart/assert" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$USER_HOME$/code/Laravel/vendor/composer" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/dnoegel/php-xdg-base-dir" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/doctrine/inflector" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/doctrine/instantiator" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/doctrine/lexer" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/egulias/email-validator" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/erusev/parsedown" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/fideloper/proxy" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/filp/whoops" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/fzaninotto/faker" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/hamcrest/hamcrest-php" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/jakub-onderka/php-console-color" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/jakub-onderka/php-console-highlighter" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/laravel/framework" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/laravel/tinker" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/league/flysystem" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/mockery/mockery" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/monolog/monolog" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/mtdowling/cron-expression" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/myclabs/deep-copy" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/nesbot/carbon" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/nikic/php-parser" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/paragonie/random_compat" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phar-io/manifest" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phar-io/version" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpspec/prophecy" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpunit/php-code-coverage" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpunit/php-file-iterator" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpunit/php-text-template" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpunit/php-timer" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpunit/php-token-stream" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpunit/phpunit" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/psr/container" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/psr/log" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/psr/simple-cache" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/psy/psysh" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/ramsey/uuid" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/code-unit-reverse-lookup" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/comparator" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/diff" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/environment" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/exporter" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/global-state" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/object-enumerator" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/object-reflector" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/recursion-context" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/resource-operations" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/sebastian/version" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/console" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/css-selector" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/debug" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/event-dispatcher" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/finder" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/http-foundation" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/http-kernel" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/polyfill-php70" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/process" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/routing" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/thanks" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/translation" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/symfony/var-dumper" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/theseer/tokenizer" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/tijsverkoyen/css-to-inline-styles" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/vlucas/phpdotenv" />
+          <root url="file://$USER_HOME$/code/Laravel/vendor/webmozart/assert" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$USER_HOME$/code/Laravel/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://$USER_HOME$/code/Laravel/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$USER_HOME$/code/Laravel/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://$USER_HOME$/code/Laravel/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
